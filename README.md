@@ -5,6 +5,14 @@ The project was created collaboratively by a team of **5 students** with the aim
 
 The application is targeted primarily towards **college students and young working professionals** who frequently order food online and prefer a fast, transparent, and smooth ordering process.
 
+# 🔗 Figma Prototype:
+
+# High Fidelity : 
+https://www.figma.com/proto/4l1P6QnJ0uve1yuksiI8jw/Final-Project?node-id=285-267&t=y5AYMAtnNDP4xKnY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=285%3A257
+
+# Low Fidelity :
+https://www.figma.com/proto/4l1P6QnJ0uve1yuksiI8jw/Final-Project?node-id=349-1286&t=9IvPu2TqpZDFHz7s-1&scaling=scale-down&content-scaling=fixed&page-id=349%3A272
+ 
 # ✨ Design Philosophy
 
 The UI design of CraveIt is based on four core principles:
