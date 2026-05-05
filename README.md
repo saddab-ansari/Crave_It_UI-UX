@@ -48,7 +48,7 @@ The primary objective of this project was to:
 # 👥 Team
 
 This project was developed by a group of **5 first-year engineering students** as part of the academic **PBL (Project Based Learning)** curriculum.
-Members : Saddab Ansari (B25IT1142), Zoya Khan (B25IT1064), Rohit Gaikwad (B25IT1152), Pratiksha Pawar (B25IT1177), Sanket Shelar (B25IT1067)
+Members : Saddab Ansari (B25IT1142), Zoya Khan (B25IT1064), Rohit Gaikwad (B25IT1152), Pratiksha Pawar (B25IT1177), Sanket Shelar (B25IT1067).
 
 ---
 
