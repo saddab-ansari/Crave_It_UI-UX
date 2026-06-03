@@ -5,6 +5,9 @@ The project was created collaboratively by a team of **5 students** with the aim
 
 The application is targeted primarily towards **college students and young working professionals** who frequently order food online and prefer a fast, transparent, and smooth ordering process.
 
+# 🔗 Youtube Video:
+https://youtu.be/MrVJvLM0rFM 
+
 # 🔗 Figma Prototype:
 
 # High Fidelity : 
